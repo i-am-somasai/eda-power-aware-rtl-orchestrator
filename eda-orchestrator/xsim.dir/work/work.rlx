@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/gagan/eda-orchestrator/rtl/alu16/alu.v,1766829564,verilog,,C:/Users/gagan/eda-orchestrator/rtl/alu16/alu_tb.v,,alu,,,,,,,,
+C:/Users/gagan/eda-orchestrator/rtl/alu16/alu_tb.v,1766416403,verilog,,,,alu_tb,,,,,,,,
+C:/Users/gagan/eda-orchestrator/rtl/alu16/cla16_addsub.v,1766416480,verilog,,C:/Users/gagan/eda-orchestrator/rtl/alu16/alu.v,,cla16_addsub,,,,,,,,
+C:/Users/gagan/eda-orchestrator/rtl/alu16/cla4.v,1766416514,verilog,,C:/Users/gagan/eda-orchestrator/rtl/alu16/cla16_addsub.v,,cla4,,,,,,,,

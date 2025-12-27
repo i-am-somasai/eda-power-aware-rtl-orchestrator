@@ -1,0 +1,19 @@
+designs:
+  alu16:
+    rtl_path: rtl/alu16
+    top: alu
+    tb: alu_tb
+    vcd: alu.vcd
+
+simulator:
+  tool: vivado
+  timeout_sec: 30
+
+power:
+  bit_weight: 1.0
+  regression_threshold_percent: 10
+
+reports:
+  log_path: reports/logs
+  csv_path: reports/csv
+  html_path: reports/html

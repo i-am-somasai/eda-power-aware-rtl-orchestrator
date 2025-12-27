@@ -1,0 +1,2 @@
+baseline_power,current_power,delta,delta_percent,status,message
+5283,5283,0,0.00,PASS,Power change within limits

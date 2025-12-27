@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gagan/eda-orchestrator/rtl/alu16/cla4.v" into library work
+INFO: [VRFC 10-311] analyzing module cla4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gagan/eda-orchestrator/rtl/alu16/cla16_addsub.v" into library work
+INFO: [VRFC 10-311] analyzing module cla16_addsub
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gagan/eda-orchestrator/rtl/alu16/alu.v" into library work
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gagan/eda-orchestrator/rtl/alu16/alu_tb.v" into library work
+INFO: [VRFC 10-311] analyzing module alu_tb
